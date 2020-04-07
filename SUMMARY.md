@@ -25,7 +25,6 @@
     * [💫 Using Open Sessions](how-to-set-up-for-living-streaming/getting-your-class-out-there/systems-on-offer/open-sessions.md)
     * [💫 Using Participant](how-to-set-up-for-living-streaming/getting-your-class-out-there/systems-on-offer/participant.md)
     * [💫 Using Playwaze](how-to-set-up-for-living-streaming/getting-your-class-out-there/systems-on-offer/playwaze.md)
-    * [💫 Using SportSuite](how-to-set-up-for-living-streaming/getting-your-class-out-there/systems-on-offer/sportsuite.md)
 * [📝 Instructions to give to participants](how-to-set-up-for-living-streaming/instructions-to-give-to-participants.md)
 
 ## Before you start live streaming <a id="before-your-start-live-streaming"></a>
