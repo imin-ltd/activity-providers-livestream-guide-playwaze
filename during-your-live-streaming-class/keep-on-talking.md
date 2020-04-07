@@ -21,5 +21,5 @@ Focus on positivity: “Great squat! Good form!” You want to provide positive 
 
 ### 🥳 Celebrate together
 
-This is no different to an in-person class. People have had to make the effort and motivate themselves to be there with you. So at the end of your class, don’t forget to get everyone to do a big round of applause. Celebrate the accomplishments of each and every one them!
+This is no different to an in-person class. People have had to make the effort and motivate themselves to be there with you. So, at the end of your class, don’t forget to get everyone to do a big round of applause. Celebrate the accomplishments of each and every one of them!
 

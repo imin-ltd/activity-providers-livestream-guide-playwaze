@@ -2,11 +2,15 @@
 description: Give yourself the best chance of delivering the best workout you can.
 ---
 
-# 📝 Plan your workout
+# ✏️ Plan your workout
 
 ### 🔑 Preparation is key
 
 You might be used to live streaming your classes already. You might be new to it. Either way, consider having a list of exercises to hand so you can seamlessly move from one to the next. This can be out of view of the camera so it looks natural.
+
+### 🤐 **Think carefully about the meeting settings** 
+
+You can set it up so that participants' microphones are muted as they enter the class, and that you're always the main speaker \(i.e. otherwise Zoom will jump to participants' cameras if they make a noise\). This is a good idea in general, but especially if people are joining late and might disturb the class whilst they figure out their muting settings.
 
 ### 🌟 Practice makes perfect
 
@@ -20,15 +24,15 @@ Body-weight training \(or calisthenics\) may now become more of a prominent feat
 
 As people are not in the same room as you, be prepared to explain different movements and exercises. These explanations may take the form of external or internal cues:
 
-* An external cue:  direct people's attention toward the effect of their movement while executing an exercise, e.g. “_push through the floor_” when doing a push up or "_bouncing on hot coals_" when doing doing high knees.
+* An external cue:  direct people's attention toward the effect of their movement while executing an exercise, e.g. “_push through the floor_” when doing a push up or "_bouncing on hot coals_" when doing high knees.
 
-* An internal cue: direct people's attention toward their body and the movement process, e.g. “_push through your heels_” when doing a squat or "_stay on your tiptoes_" when running on the spot.
+* An internal cue: direct people's attention toward their body and the movement process, e.g. “_push through your heels_” when doing a squat or "_stay on the balls of your feet_" when running on the spot.
 
 ### 😩 Pobody's nerfect
 
-The whole situation feels different, but it's also incredibly similar - people still want to exercise in a group environment, you still have to provide fantastic classes, offer positive feedback, give encouragement, and provide a feeling of community. The only difference is that it's now online! Be prepared to make mistakes and know that you'll grow from the experience.
+The whole situation feels different, but it's also incredibly similar - people still want to exercise in a group environment, you still have to offer positive feedback, give encouragement, and provide a feeling of community during your classes. The only difference is that it's now online! Be prepared to make mistakes and know that you'll grow from the experience.
 
 ### 🔐 Don't forget to provide access to your class
 
-Be sure to provide people with the link \(and password if necessary\) to your online class. And don't leave it too late before doing so - you don't want people rushing to get into the class and turning up flustered! See the [Instructions to give to Participants](../how-to-set-up-for-living-streaming/getting-your-class-out-there/instructions-to-give-to-participants.md) section above.
+Be sure to provide people with the link \(and password if necessary\) to your online class. And don't leave it too late before doing so - you don't want people rushing to get into the class and turning up flustered! See the [instructions to give to participants](../how-to-set-up-for-living-streaming/instructions-to-give-to-participants.md) section above.
 

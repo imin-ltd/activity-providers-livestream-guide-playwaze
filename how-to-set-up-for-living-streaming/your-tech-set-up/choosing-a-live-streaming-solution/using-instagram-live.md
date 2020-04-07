@@ -1,6 +1,8 @@
 # Using Instagram Live
 
+{% hint style="info" %}
 Very similar to Facebook Live, Instagram Live is another easy, quick way to get your free classes live streamed within minutes. Unlike Facebook Live, where there are a few workarounds for private Groups or Pages to limit access to those who have pre-booked / paid, Instagram Live really is only appropriate if you don't want to restrict who can join your class.
+{% endhint %}
 
 ### 💷 Does it cost anything?
 

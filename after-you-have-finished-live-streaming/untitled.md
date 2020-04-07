@@ -10,7 +10,7 @@ Watch your recording back and see what you could have done differently. Be criti
 
 ### 🗳 Ask others for feedback
 
-The best feedback will be from the people who attended your class. Is there something they didn't enjoy? or something they loved that you could incorporate more of next time? All feedback is good feedback.
+The best feedback will be from the people who attended your class. Is there something they didn't enjoy or something they loved that you could incorporate more of next time? All feedback is good feedback.
 
 ### 🎥 Share your recording
 

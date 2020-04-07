@@ -1,8 +1,10 @@
 # Using Youtube Live
 
-YouTube is a by-word for "online video". More recently, YouTube has introduced the ability to live stream content, and is widely used in many sectors from fitness to gaming. 
+{% hint style="info" %}
+YouTube is a by-word for "online video". More recently, YouTube has introduced the ability to live stream content and is widely used in many sectors from fitness to gaming.
 
 YouTube is an option if you want to stream both public classes \(free for anyone to access\) and unlisted classes \(e.g. for those who have booked / paid\). 
+{% endhint %}
 
 ### 💷 Does it cost anything?
 

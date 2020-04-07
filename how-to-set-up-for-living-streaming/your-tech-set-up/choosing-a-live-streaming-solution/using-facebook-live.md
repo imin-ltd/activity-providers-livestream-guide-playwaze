@@ -1,6 +1,8 @@
 # Using Facebook Live
 
+{% hint style="info" %}
 Facebook Live is a great option where you \(a\) offer free classes and \(b\) just want to get going. There are some setups where you could offer classes to paid-up members \(e.g. setting them up on a private Facebook Group\) so there is still some flexibility.
+{% endhint %}
 
 ### 💷 Does it cost anything?
 

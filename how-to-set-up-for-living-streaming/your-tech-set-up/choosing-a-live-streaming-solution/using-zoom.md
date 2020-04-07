@@ -1,6 +1,8 @@
 # Using Zoom
 
+{% hint style="info" %}
 Zoom is a leading video tele-conferencing software. It enables you to broadcast your class to participants who all join a Zoom "meeting". It basically works by creating a unique website URL for each "meeting" that you can send to participants for them to join the class from their smartphone, tablet or laptop.
+{% endhint %}
 
 ### 💷 Does it cost anything?
 
@@ -22,7 +24,7 @@ Either way, participants **won't need to create their own Zoom account** so most
 
 One of the great benefits of Zoom over other platforms, e.g. Instagram, is that you’ll be able to see your participants - this can be done in a grid view to see multiple participants on one screen. Perfect for providing feedback!
 
-![Source: https://www.theverge.com/2020/3/26/21195288/zoom-yoga-online-classes-coronavirus](../../../.gitbook/assets/image%20%282%29.png)
+![Source: https://www.theverge.com/2020/3/26/21195288/zoom-yoga-online-classes-coronavirus](../../../.gitbook/assets/image%20%283%29.png)
 
 ### 🎲 How do I get started with Zoom?
 

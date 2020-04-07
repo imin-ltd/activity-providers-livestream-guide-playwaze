@@ -1,12 +1,14 @@
 ---
-description: There are a few options out there for you to choose from.
+description: >-
+  There are a few options out there for you to choose from. We're reviewed the
+  best.
 ---
 
 # 📽 Choosing a live streaming solution
 
 ## 🕵️‍♂️ Check your existing booking system
 
-First things first - your existing booking system might already have an easy way for you to deliver live streamed exercise. For example, we know several booking systems have pre-built integrations with live streaming platforms. If this is the case, that's probably the best \(and quickest\) way for you to get your classes online, so check with your booking system first.
+First things first - your existing booking system might already have an easy way for you to deliver live streamed exercise - many now have pre-built integrations with live streaming platforms. If this is the case, that's probably the best \(and quickest\) way for you to get your classes online, so check with your booking system first.
 
 If you don't use a booking system, then it might be worth quickly checking out this section to see if it makes sense for you to start using one:
 

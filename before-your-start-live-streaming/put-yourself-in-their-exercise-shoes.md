@@ -1,18 +1,25 @@
 ---
 description: >-
-  Where are they? What do they have to hand? What do they want from the
-  experience? Can they easily copy what you're doing?
+  Think about whether you need to modify the format to cater for those
+  participants at home with less space/no equipment/without you there to guide
+  them.
 ---
 
-# 👟Put yourself in their exercise shoes
+# 👟 Put yourself in their exercise shoes
 
-### 🏠 Environment
+### ℹ️ General information for participants
 
-You need to be mindful of the possible limitations on space. People might be in their bedroom, their living room, maybe even in a garden - so maybe remove the shuttle runs from your workout for the time being! Ask people before you start the class to make sure the surrounding area is free of obstacles and hazards - a space about 2m² should be fine.
+You should provide participants with the same information as you would when delivering a normal class – what they can expect, what kit they will need, class length, intensity, etc. If technology is involved, you could provide guidelines on its use and troubleshooting.
+
+### 🏠 Workout space
+
+You should always make sure your class can be done safely by those who might have limitations on space - people might be in a living room, garden, or maybe even a bedroom. Maybe remove the shuttle runs from your workout for the time being! Ask people before you start the class to make sure the surrounding area is free of obstacles and hazards - a space about 2m² should be fine. See the section on[ safety and insurance](safety-and-insurance.md#space-risk-assessment) for more information.
 
 ### 🏋️‍♀️ Equipment
 
-You also need to remember that people may not have access to the equipment that you have. Some might have dumbbells or fitness bands; others might have nothing. So can you do a workout without equipment? Or if you absolutely do need it, can you be creative and help people use common household objects? Will a can of baked beans suffice as a weight or a chair as a step? If people will need equipment for classes going forward, then you can send a link to the online retailer from which they can order for delivery \(but remember - people are watching the pennies at this difficult time!\).
+Many people may not have access to the fitness equipment that you have. Some might have dumbbells or fitness bands; others might have nothing. So, can you do a workout without equipment focusing on bodyweight exercises? If participants will need to use equipment, can you be creative and help people safely use common household objects? If this is the case, do please bear in mind the earlier information on [carrying out a risk assessment](safety-and-insurance.md#space-risk-assessment).
+
+If people will need equipment for classes going forward, then you can send a link to the online retailer from which they can order for delivery \(but remember - people are watching the pennies at this difficult time!\).
 
 ### 🤳 Engaging
 
@@ -20,7 +27,7 @@ There is plenty of highly polished recorded content out there. But understand th
 
 ### 🖼 Entire body in frame
 
-This is very important: can people see your entire body? When you go down to do a press-up, do people lose sight of you? People need to be able to see what you’re doing at all times. So make sure you camera is pointing in the right place and you are far enough away to incorporate all of your movements. For more detail about this, see:
+This is very important: can people see your entire body? When you go down to do a press-up, do people lose sight of you? People need to be able to see what you’re doing at all times. So make sure your camera is pointing in the right place and you are far enough away to incorporate all of your movements. For more detail about this, see:
 
 {% page-ref page="../how-to-set-up-for-living-streaming/your-tech-set-up/equipment.md" %}
 
