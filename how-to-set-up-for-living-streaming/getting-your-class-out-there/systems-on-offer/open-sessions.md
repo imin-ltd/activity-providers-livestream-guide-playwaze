@@ -50,9 +50,11 @@ Open Sessions works anywhere. So whether you are in Lambeth or Loughborough, you
 
 ### How does an instructor enable OpenActive within Open Sessions?
 
-W
+All sessions uploaded via Open Sessions are automatically published in the correct OpenActive format.
+
+No need to enable anything, just create a session and click publish.
 
 ### **Can an instructor easily add live streaming to Open Sessions?**
 
-Y
+When adding a session, go to the location tab and select “Online Class”. You’ll be prompted to enter the url for the live online class.
 
