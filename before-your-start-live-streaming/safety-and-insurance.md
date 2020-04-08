@@ -36,7 +36,7 @@ It is always good to have a disclaimer like this in writing, so you can add it t
 
 ### 👧 Safeguarding procedures for virtual classes
 
-At this time, you may need to apply some of your existing guidance and procedures to the classes hosted in your new space. However, the principles of online safeguarding will still apply. For more information, we recommend you thoroughly examine [this guidance](https://thecpsu.org.uk/resource-library/best-practice/remote-teaching-and-coaching/) provided by the NSPCC's Child Protection in Sport Unit.
+At this time, you may need to apply some of your existing guidance and procedures to the classes hosted in your new space. However, the principles of online safeguarding will still apply. For more information, we recommend you thoroughly examine [this guidance](https://thecpsu.org.uk/resource-library/best-practice/remote-teaching-and-coaching/) provided by the NSPCC's [Child Protection in Sport Unit](https://thecpsu.org.uk/).
 
 ### 🩺 Participant health screening 
 
