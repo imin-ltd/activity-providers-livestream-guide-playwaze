@@ -9,7 +9,7 @@ description: >-
 ![](../../../.gitbook/assets/open-sessions-logo-13.33.04.png)
 
 {% hint style="info" %}
-🖥 **\*\*\[**www.opensessions.io_\*\]\(www.opensessions.io\)\_\*\*\*
+🖥 [**https://www.opensessions.io**](https://www.opensessions.io)
 
 **📨 chris.norfield@londonsport.org**
 {% endhint %}
