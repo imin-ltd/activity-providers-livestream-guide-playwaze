@@ -31,7 +31,7 @@ Here's an overview of the main options, with further detail available in this se
 
 * There is a free option \(limited to 40 mins per broadcast without a recording option\). The paid for plan starts at £11.99.
 
-{% page-ref page="using-zoom.md" %}
+
 {% endtab %}
 
 {% tab title="Facebook Live" %}
@@ -45,7 +45,6 @@ Here's an overview of the main options, with further detail available in this se
 * You can't see or hear your participants, so if your classes usually involve feedback, adjustments, etc. then Facebook Live isn't ideal for you.
 * You can receive Facebook messages and reactions, but this may distract you during the class.
 
-{% page-ref page="using-facebook-live.md" %}
 {% endtab %}
 
 {% tab title="Instagram Live" %}
@@ -59,7 +58,6 @@ Here's an overview of the main options, with further detail available in this se
 * Like with Facebook Live, you can't see or hear your participants, so not ideal if you prefer delivering interactive classes. Also, all Instagram broadcasts are in portrait, so bear this in mind!
 * Also, unlike with Facebook Live, Instagram Live videos disappear from your profile after 24 hours, so participants can't watch them easily later.
 
-{% page-ref page="using-instagram-live.md" %}
 {% endtab %}
 
 {% tab title="YouTube Live" %}
@@ -71,7 +69,13 @@ Here's an overview of the main options, with further detail available in this se
 
 * To broadcast from a mobile, you'll need to have at least 1,000 subscribers, but you can stream from a webcam without restrictions. You might also have to wait a little while \(24 hours\) when you first try to broadcast for your account to be verified by YouTube.
 
-{% page-ref page="using-youtube-live.md" %}
 {% endtab %}
 {% endtabs %}
 
+{% page-ref page="using-zoom.md" %}
+
+{% page-ref page="using-facebook-live.md" %}
+
+{% page-ref page="using-instagram-live.md" %}
+
+{% page-ref page="using-youtube-live.md" %}
