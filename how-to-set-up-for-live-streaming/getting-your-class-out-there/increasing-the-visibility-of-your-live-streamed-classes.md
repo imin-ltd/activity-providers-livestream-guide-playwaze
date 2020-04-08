@@ -26,10 +26,10 @@ Examples of the platforms that want to promote your classes are: [_**classfinder
 
 The straightforward answer is that you need to do two things:
 
-1. Use a class management/booking system to manage your classes \(check out if ; _**and**_ 
-2. **Ensure the system you use is "OpenActive enabled".**
+1. Use a class management/booking system to manage your classes; _and_ 
+2. Ensure the system you use is "OpenActive enabled".
 
-Find out more about [using a system to manage your classes](managing-your-classes.md) in the next section of this guide.
+Find out more about [using a system to manage your classes](managing-your-classes.md) and in the next section of this guide.
 
 ### 🤔 I already work with MoveGB, ClassPass or something similar. How is this different?
 

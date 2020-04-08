@@ -9,26 +9,26 @@ description: >-
 ![](../../../.gitbook/assets/full_logo_1040_200_border.png)
 
 {% hint style="info" %}
-🖥 ****[**https://bookwhen.com**](https://bookwhen.com)\*\*\*\*
+🖥 **\*\*\[**[https://bookwhen.com\*\*\]\(https://bookwhen.com\)\*\*\*\*](https://bookwhen.com**]%28https://bookwhen.com%29****)
 
 **📨 support@bookwhen.com**
 {% endhint %}
 
-### Welcome to Bookwhen
+## Welcome to Bookwhen
 
-Whatever you organise, we make booking simple. We're the flexible online booking system for Classes, Courses, Workshops, Events and more. 
+Whatever you organise, we make booking simple. We're the flexible online booking system for Classes, Courses, Workshops, Events and more.
 
 Our simple schedule page makes it easy for your attendees to book onto an event with no pre-registration necessary. Features include waiting list, 'basket' system for booking, custom booking form, online payments, attachments, discount options, support for online events and in-app support.
 
 Our paid plans start from £9/month and we also have a free plan which allows up to 50 bookings per month.
 
-### Who is Bookwhen designed for?
+## Who is Bookwhen designed for?
 
 Fitness & Sports, Yoga & Pilates, Children’s Activities, Training & Learning, Activities & Experiences, Arts & Crafts, Photography and Wellness.
 
 We generally support smaller providers and our mission is centred about helping small businesses grow. But bigger clients across the board include: Amazon, University of Oxford, NHS, Scouts, Uber and Zumba.
 
-### What features sets Bookwhen apart from the competition?
+## What features sets Bookwhen apart from the competition?
 
 * Recurring events and classes
 * Multi date, multi attendee booking
@@ -42,15 +42,15 @@ We generally support smaller providers and our mission is centred about helping 
 * Available in 8 other languages - French, Spanish, German, Danish, Dutch, Swedish, Italian and Hungarian
 * API
 
-### What is the sign-up process?
+## What is the sign-up process?
 
 Providers can sign up for a 2 week free trial with just an email address. Setup can take as little as 10 minutes, and we have live chat support on hand to help. Check out our demo video [here](https://bookwhen.com/demo).
 
-### How does an instructor enable OpenActive within Bookwhen?
+## How does an instructor enable OpenActive within Bookwhen?
 
 Enabling OpenActive is easy, and you can choose specifically which of your classes you’d like to appear in the feed. [Here](http://support.bookwhen.com/en/articles/1283090-sharing-your-activity-data-with-openactive) is a link to our help article.
 
-### **Can an instructor easily add live streaming to** Bookwhen**?**
+## **Can an instructor easily add live streaming to** Bookwhen**?**
 
 There are three methods for adding live streaming to your Bookwhen events:
 

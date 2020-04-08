@@ -1,25 +1,31 @@
 ---
-description: Looking for OpenActive enabled systems? Look no further (than the list below)!
+description: Looking for a new system? Look no further (than the table below!)...
 ---
 
 # 🛍 Systems on offer
 
-### 📝 Examples of OpenActive enabled class management/booking systems:
+## 🤝 Class management/booking systems and what they offer
 
-* Bookwhen\*
-* Gladstone
-* Legend
-* Makesweat
-* Open Sessions\*
-* Participant\* \(coming soon\)
-* Playwaze\*
-* SportSuite\*
+| **System name** | **Suitable for live streamed classes?** | **Is OpenActive enabled for virtual classes?** | **Accepts online booking/payment?** | **Free tier available**_**?**_ |
+| :--- | :---: | :---: | :---: | :---: |
+| \*\*\*\*[**Bookwhen**](https://bookwhen.com/)\*\*\*\* | Yes | **Implementing** | Yes | Yes |
+| \*\*\*\*[**Gladstone**](https://www.gladstonesoftware.co.uk/)\*\*\*\* | Unknown | **No** | Yes | No |
+| \*\*\*\*[**Legend**](https://www.legendware.co.uk/)\*\*\*\* | Unknown | **No** | Yes | No |
+| \*\*\*\*[**Makesweat**](https://makesweat.com/)\*\*\*\* | Unknown | **No** | Yes | Yes |
+| \*\*\*\*[**Open Sessions**](https://opensessions.io/#/home) | Implementing | **Implementing** | No | Yes |
+| \*\*\*\*[**Participant**](https://www.participant.co.uk/home)\*\*\*\* | Implementing | **Implementing** | Yes | Yes |
+| \*\*\*\*[**Playwaze**](https://playwaze.com/)\*\*\*\* | Yes | **Implementing** | Yes | Yes |
+| \*\*\*\*[**SportSuite**](https://www.sportsuite.co.uk/)\*\*\*\* | Yes | **No^** | No | Yes |
 
-\* = free tier available
+{% hint style="warning" %}
+^ You can ask your chosen booking system to do the necessary work to become OpenActive enabled. It should not take them long. Alternatively, you can email hello@openactive.io with information about your system so the team at OpenActive can help to make this a reality.
+{% endhint %}
 
+{% hint style="info" %}
 Overwhelmed by the range of systems on offer? Please drop us a line at hello@imin.co and we'd be happy to help you navigate the options that exist and make a decision.
+{% endhint %}
 
-### 📽 Class management/booking systems and your streaming solution
+## 📽 Class management/booking systems and your streaming solution
 
 Some class management/booking systems leave the choice of live streaming solution to you - in which case you can use the previous section on[ choosing a live streaming solution](../../your-tech-set-up/choosing-a-live-streaming-solution/) to select the one that will work best for you.
 

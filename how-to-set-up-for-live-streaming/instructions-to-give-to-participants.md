@@ -1,5 +1,5 @@
 ---
-description: Plug in this. Download that. Click there.
+description: Plug in this. Download that. Click here.
 ---
 
 # 📝 Instructions to give to participants

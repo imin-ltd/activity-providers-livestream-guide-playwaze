@@ -14,15 +14,15 @@ description: >-
 **📨 roger@participant.co.uk**
 {% endhint %}
 
-### Welcome to Participant
+## Welcome to Participant
 
 Participant is a secure online booking system which caters to the needs of event organisers and participants. Payments are integrated into the platform saving you the expense and hassle of setting up a separate agreement with a third party payment provider. We collect the payments on your behalf and transfers the funds on a weekly basis into your bank account. New events take minutes to set up and participants simply click on a link to book and pay. We offer a standard solution which has no fixed monthly costs as well as a more feature rich version which comes with a whole suite of additionally functionality.
 
-### Who is Participant designed for?
+## Who is Participant designed for?
 
 As Participant is very scalable it is used by numerous large organisations \(such as the Football Association, Premier League football clubs and Great Ormond Street Hospital\) as well as hundreds of smaller providers that offer after school clubs, holiday camps, weekly classes and training courses across the country.
 
-### What features sets Participant apart from the competition?
+## What features sets Participant apart from the competition?
 
 * Integrated payments so no need for third party payment provider
 * Weekly pay outs with detailed payment settlement report
@@ -31,7 +31,7 @@ As Participant is very scalable it is used by numerous large organisations \(suc
 * Receive donations
 * Enable webinar and online course delivery solutions for remote events
 
-### What is the sign-up process?
+## What is the sign-up process?
 
 Getting started takes just minutes:
 
@@ -41,7 +41,7 @@ Getting started takes just minutes:
 
 A simple user guide is available and we’re always available to help you get started.
 
-### How does an instructor enable OpenActive within Participant?
+## How does an instructor enable OpenActive within Participant?
 
 When setting up your event on Participant you will follow the 5 steps within the red bar:
 
@@ -53,7 +53,7 @@ Once on "Publish Options" at the bottom of the page, you will need to tick the �
 
 Once done click "Save" and your event will be ready to start taking bookings.
 
-### **Can an instructor easily add live streaming to Participant?**
+## **Can an instructor easily add live streaming to Participant?**
 
 Yes, the relevant link would be included in the confirmation email along with relevant instructions how to access the class, what equipment is required, etc.
 
