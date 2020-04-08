@@ -40,6 +40,8 @@ function deployCopy {
 
   cd out/activity-providers-livestream-guide-$1
   
+  echo $(date) > published-timestamp.md
+
   node consolidate-summary.js "$1"
 
   # The first and only commit to this new Git repo contains all the
