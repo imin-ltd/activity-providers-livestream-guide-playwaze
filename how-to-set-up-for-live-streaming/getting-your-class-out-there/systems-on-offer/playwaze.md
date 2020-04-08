@@ -9,7 +9,7 @@ description: >-
 ![](../../../.gitbook/assets/playwaze_logo_orange_-ea8a41%20%281%29.jpeg)
 
 {% hint style="info" %}
-🖥 **https://playwaze.com/**
+🖥 [**https://playwaze.com/**](https://playwaze.com/)
 
 **📨 team@playwaze.com**
 {% endhint %}
