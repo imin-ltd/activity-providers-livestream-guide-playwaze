@@ -40,7 +40,7 @@ function deployCopy {
 
   cd out/activity-providers-livestream-guide-$1
   
-  node ../../consolidate-summary.js -- "$1"
+  node consolidate-summary.js "$1"
 
   # The first and only commit to this new Git repo contains all the
   # files present with the commit message "Deploy to GitHub Pages".
