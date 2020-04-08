@@ -4,7 +4,7 @@ description: Some helpful pointers from the pros.
 
 # 🚨 Zoom - do's and don'ts
 
-### 🏅 **Hosting tips from** [**Zoom**](https://blog.zoom.us/wordpress/2020/03/04/best-practices-for-hosting-a-digital-event/?_ga=2.70324371.2055348868.1586158002-1988835527.1586158002)\*\*\*\*
+### 🏅 **Hosting tips from** [**Zoom**](https://blog.zoom.us/wordpress/2020/03/04/best-practices-for-hosting-a-digital-event/?_ga=2.70324371.2055348868.1586158002-1988835527.1586158002)
 
 * **Test the audio before your class begins:** this will ensure your speakers and mic are working properly before the live class begins. [Here’s how to test your device audio.](https://support.zoom.us/hc/en-us/articles/201362283-How-Do-I-Join-or-Test-My-Computer-Device-Audio-?zcid=1231)
 * **Minimise background noise:** try to host your class in a quiet place. If you must be in a loud environment, using a headset with a mic often reduces background noise compared with your computer’s built-in microphone.
