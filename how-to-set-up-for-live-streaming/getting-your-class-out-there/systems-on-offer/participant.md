@@ -9,7 +9,7 @@ description: >-
 ![](../../../.gitbook/assets/participant-logo-2019-01.png)
 
 {% hint style="info" %}
-🖥 [**https://www.participant.co.uk**](https://www.participant.co.uk)\*\*\*\*
+🖥 [**https://www.participant.co.uk**](https://www.participant.co.uk)
 
 **📨 roger@participant.co.uk**
 {% endhint %}
