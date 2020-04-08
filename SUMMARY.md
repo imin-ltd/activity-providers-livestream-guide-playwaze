@@ -4,7 +4,7 @@
 
 ## Introduction
 
-* [💻 Why live stream your classes?](introduction/why-take-your-live-stream-classes-online.md)
+* [💻 Why live stream your classes?](introduction/why-live-stream-your-classes.md)
 * [🏃‍♂️Start live streaming in 4 lightning ⚡️quick steps](introduction/get-live-streaming-in-3-steps.md)
 
 ## How To Set Up For Live Streaming

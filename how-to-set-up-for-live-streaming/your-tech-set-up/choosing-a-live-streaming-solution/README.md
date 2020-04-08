@@ -22,7 +22,7 @@ Here's an overview of the main options, with further detail available in this se
 
 {% tabs %}
 {% tab title="Zoom" %}
-**Best for:** 
+**Best for:**
 
 * Large or small interactive classes, where you want to see and hear from participants.
 * Paid-for classes \(you can generate unique URLs per class to send to participants\).
@@ -35,7 +35,7 @@ Here's an overview of the main options, with further detail available in this se
 {% endtab %}
 
 {% tab title="Facebook Live" %}
-**Best for:** 
+**Best for:**
 
 * Connecting with your existing followers and other potential participants on Facebook.
 * Extremely simple to get going.
@@ -49,7 +49,7 @@ Here's an overview of the main options, with further detail available in this se
 {% endtab %}
 
 {% tab title="Instagram Live" %}
-**Best for:** 
+**Best for:**
 
 * Connecting with your existing followers and other potential participants on Instagram.
 * Extremely simple to get going.
@@ -63,7 +63,7 @@ Here's an overview of the main options, with further detail available in this se
 {% endtab %}
 
 {% tab title="YouTube Live" %}
-**Best for:** 
+**Best for:**
 
 * Can be publicly or privately shared, so potentially suitable for both free and paid-for classes.
 

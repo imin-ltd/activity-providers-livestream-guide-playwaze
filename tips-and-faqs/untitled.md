@@ -28,5 +28,5 @@
 
 👩‍👧‍👦 Encourage people to share physical activity and movement with their family members - after all, we’re all in this together!
 
-🔋 Above all, remember that at this difficult and uncertain time, you can offer an escape from the new normal. [You are in a position of great power](../introduction/why-take-your-live-stream-classes-online.md). Now go forth and help get active \(virtually\)!
+🔋 Above all, remember that at this difficult and uncertain time, you can offer an escape from the new normal. [You are in a position of great power](../introduction/why-live-stream-your-classes.md). Now go forth and help get active \(virtually\)!
 
