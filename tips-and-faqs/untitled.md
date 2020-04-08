@@ -2,7 +2,7 @@
 
 🌐Check your internet connect and WiFi connection before starting. You don't want lose connection and drop out of the class half way through!
 
-📣Choose an "OpenActive enabled" class management or booking system to [increasing the visibility of your classes](../how-to-set-up-for-living-streaming/getting-your-class-out-there/increasing-the-visibility-of-your-live-streamed-classes.md).
+📣Choose an "OpenActive enabled" class management or booking system to [increasing the visibility of your classes](../how-to-set-up-for-live-streaming/getting-your-class-out-there/increasing-the-visibility-of-your-live-streamed-classes.md).
 
 🎶Ensure you have the requisite [insurance and music licences](../before-your-start-live-streaming/safety-and-insurance.md#insurance-cover).
 
@@ -16,7 +16,7 @@
 
 🤸‍♀️Make sure people can see all your movements. You don't want your torso being cut off during a burpee!
 
-🔐Don't forget to provide people with [instructions to join your online class](../how-to-set-up-for-living-streaming/instructions-to-give-to-participants.md), including the link \(and password if necessary\), with sufficient time for them to get setup and join.
+🔐Don't forget to provide people with [instructions to join your online class](../how-to-set-up-for-live-streaming/instructions-to-give-to-participants.md), including the link \(and password if necessary\), with sufficient time for them to get setup and join.
 
 🗣Be as vocal as possible during the class - reassure people that you are still there and their connection has not failed.
 
