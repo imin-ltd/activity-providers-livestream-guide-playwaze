@@ -22,7 +22,7 @@ Here's an overview of the main options, with further detail available in this se
 
 {% tabs %}
 {% tab title="Zoom" %}
-#### Best for: 
+**Best for:** 
 
 * Large or small interactive classes, where you want to see and hear from participants.
 * Paid-for classes \(you can generate unique URLs per class to send to participants\).
