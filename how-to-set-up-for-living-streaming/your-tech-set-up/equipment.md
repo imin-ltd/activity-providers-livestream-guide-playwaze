@@ -4,7 +4,7 @@ description: The stuff you need to get going.
 
 # 🤳🏻 Equipment
 
-### 📝 What you will need \(at a minimum\)
+## 📝 What you will need \(at a minimum\)
 
 * [ ] A smart device \(e.g. your phone, tablet, etc.\) or laptop with a camera and Wi-Fi connection \(we recommend a laptop as you will be able to see the participants more easily for interactive sessions\); 
 * [ ] Access to power \(you probably want the device plugged into the charger to avoid catastrophic low power situations!\); 
@@ -13,7 +13,7 @@ description: The stuff you need to get going.
 * [ ] A hazard-free area in which to work out; and 
 * [ ] Your normal workout equipment to deliver the class.
 
-### 🤹‍♀️ You'll need to play around to get things perfect for you
+## 🤹‍♀️ You'll need to play around to get things perfect for you
 
 Other things to consider are:
 
@@ -22,15 +22,15 @@ Other things to consider are:
 * **Audio:** can they hear you? Can you hear them? If there's music, can they hear that well? Is it better for you to wear wireless headphones so your voice is clear? 
 * **Multiple Devices:** especially for interactive sessions using Zoom, some instructors prefer to set up two devices - one close to them, so they can see participants \(e.g. their laptops or tablets - bigger screen\), and one device setup further away to be the main camera for broadcasting the live stream \(e.g. the main camera on your phone - not the selfie camera as it is less high quality than the rear-facing camera!\). Both devices are plugged into the same live stream session by simply using the same "meeting" URL \(see the [Using Zoom](choosing-a-live-streaming-solution/using-zoom.md) section for more details\). This avoids you having to go back and forth to the main camera to check if Keith is doing his downward dog properly. This way, you can see Keith on the device nearest to you with a quick glance, without disrupting the class to walk over to where the camera is. No excuses, Keith!
 
-### 👩‍🔬 Test, test and....TEST
+## 👩‍🔬 Test, test and....TEST
 
-You'll see this repeated a few times in this guide \(because it's an important point!\): 
+You'll see this repeated a few times in this guide \(because it's an important point!\):
 
 {% hint style="danger" %}
 **It's well worth testing your set up with friends or relatives first to ensure everything works as you expect it \(especially the internet connection!\).**
 {% endhint %}
 
-### 📲 What else will I need?
+## 📲 What else will I need?
 
 You'll also need to choose a platform to live stream your classes - there are a number on offer, so we've reviewed the main ones for you to consider in the next section:
 

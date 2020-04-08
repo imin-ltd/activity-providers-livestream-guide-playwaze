@@ -4,7 +4,7 @@
 Zoom is a leading video tele-conferencing software. It enables you to broadcast your class to participants who all join a Zoom "meeting". It basically works by creating a unique website URL for each "meeting" that you can send to participants for them to join the class from their smartphone, tablet or laptop.
 {% endhint %}
 
-### 💷 Does it cost anything?
+## 💷 Does it cost anything?
 
 Maybe - it depends on what you need. There is a free plan which allows you to stream for up to 40 minutes - great for 30 min classes, not so good for anything longer. Think about how this might impact your class structure - you will want to get in the virtual class a few minutes early to greet people and hang around at the end in case people have any questions. The basic plan also does not allow you to record your classes.
 
@@ -14,9 +14,9 @@ All plans allow up to 100 participants as a minimum, so for most classes that's 
 
 If you want more than 100+ \(people might be queuing out of the virtual door to attend your class!\), check out the various packages and sign up at:
 
-{% embed url="https://zoom.us/pricing" %}
+{% embed url="https://zoom.us/pricing" caption="" %}
 
-### 🙆‍♂️ What's it like for participants?
+## 🙆‍♂️ What's it like for participants?
 
 In most cases, participants will receive a URL \(web link\) and all they have to do is click on that link and it will open the Zoom "Meeting". If participants join from a laptop, they can either join via their browser \(no downloads required, so quick and easy\) or download Zoom for desktop; if joining from mobile they'll need to download the Zoom app.
 
@@ -24,9 +24,9 @@ Either way, participants **won't need to create their own Zoom account** so most
 
 One of the great benefits of Zoom over other platforms, e.g. Instagram, is that you’ll be able to see your participants - this can be done in a grid view to see multiple participants on one screen. Perfect for providing feedback!
 
-![Source: https://www.theverge.com/2020/3/26/21195288/zoom-yoga-online-classes-coronavirus](../../../.gitbook/assets/image%20%283%29.png)
+![Source: https://www.theverge.com/2020/3/26/21195288/zoom-yoga-online-classes-coronavirus](https://github.com/imin-ltd/activity-providers-livestream-guide-playwaze/tree/d9383af7ae60a68f18c89525ecbeecb1539b2990/.gitbook/assets/image%20%283%29.png)
 
-### 🎲 How do I get started with Zoom?
+## 🎲 How do I get started with Zoom?
 
 * [Sign up](https://zoom.us/pricing) and choose your plan. 
 * In your Zoom account, under "Profile", you'll find your **Personal Meeting ID**. You have three options for how to invite participants to your class \(these are instructions for using Zoom on your laptop, but it's similar for the app\): 
@@ -43,7 +43,7 @@ One of the great benefits of Zoom over other platforms, e.g. Instagram, is that 
 **Test it out with friends first before trying it with your class participants! You will inevitably need to tweak the settings to get it just right for you.**
 {% endhint %}
 
-### **Tips for using Zoom**
+## **Tips for using Zoom**
 
 * Don't get caught out by the default Zoom settings, which put things in US timezone - you can change  this in the Zoom settings page. 
 * Under the Basic \(free\) or Pro plan, the host \(you\) can only have one Zoom meeting launched at any one time. So make sure you either space out your classes so you can launch each new Zoom meeting at the right time without overlap, or know that participants for the next class might be joining at the end of the previous class.  

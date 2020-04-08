@@ -6,15 +6,15 @@ description: >-
 
 # 💫 Using Playwaze
 
-![](../../../.gitbook/assets/playwaze_logo_orange_-ea8a41%20%281%29.jpeg)
+![](https://github.com/imin-ltd/activity-providers-livestream-guide-playwaze/tree/d9383af7ae60a68f18c89525ecbeecb1539b2990/.gitbook/assets/playwaze_logo_orange_-ea8a41%20%281%29.jpeg)
 
 {% hint style="info" %}
-🖥 **https://playwaze.com/**
+🖥 [https://playwaze.com/](https://playwaze.com/)
 
 **📨 team@playwaze.com**
 {% endhint %}
 
-### Welcome to Playwaze
+## Welcome to Playwaze!
 
 Playwaze is offering a free ‘Netflix-style’ live and on demand activity finder for those who want to:
 
@@ -23,13 +23,13 @@ Playwaze is offering a free ‘Netflix-style’ live and on demand activity find
 3. Provide free access or take bookings and/or payments to access your activities
 4. Manage your activities and content in one place but promote them in many, for free \(e.g. on your website, your social media channels, other high profile activity finders\)
 
- Great for:
+   Great for:
 
-1. Keeping anyone and everyone active at home 
-2. Bringing people together online
-3. Helping combat isolation
+5. Keeping anyone and everyone active at home
+6. Bringing people together online
+7. Helping combat isolation
 
-### Who is Playwaze designed for?
+## Who is Playwaze designed for?
 
 Playwaze is suitable for anyone who wants to promote and/or deliver live and on demand activities.This starts from a single coach or instructor to large organisations. We already work with:
 
@@ -39,7 +39,7 @@ Playwaze is suitable for anyone who wants to promote and/or deliver live and on 
 4. Fitness Studios, Gyms, and Local and County Councils
 5. National Governing Bodies and Active Partnerships
 
-### What features sets Playwaze apart from the competition?
+## What features sets Playwaze apart from the competition?
 
 Playwaze is the only provider who can provide you with a FREE custom branded ‘Netflix-style’ activity finder at speed, and/or allow you to manage your activities and content real-time, and make these free or take bookings and/or payments. In summary, we are offering:
 
@@ -47,7 +47,7 @@ Playwaze is the only provider who can provide you with a FREE custom branded ‘
 2. Free use of our activity tool for you or your partners to manage your activities and content
 3. Ability to make activities and content free, or take bookings and/or payments 
 
-### What is the sign-up process?
+## What is the sign-up process?
 
 To get started with Playwaze, follow these 3 simple steps:
 
@@ -55,20 +55,20 @@ To get started with Playwaze, follow these 3 simple steps:
 2. REGISTER ON PLAYWAZE: click [here](https://playwaze.com/register) to register and create your organisation or company. 
 3. BEGIN ADDING YOUR ACTIVITIES AND CONTENT: once you’re registered, just start adding your live and on demand activities!
 
-### Anything else worth knowing about Playwaze?
+## Anything else worth knowing about Playwaze?
 
 There are no catches, no if’s and no buts. Playwaze is offering a free way for you to promote, manage and provide anyone with easy access to your activities and content while we wait for the current circumstances we are all to begin to subside.
 
-### How does an instructor enable OpenActive within Playwaze?
+## How does an instructor enable OpenActive within Playwaze?
 
-It’s a simple tick of a box to display your activities and content on your website, and on all other public activity finders. 
+It’s a simple tick of a box to display your activities and content on your website, and on all other public activity finders.
 
 Once you are setup and start adding your activities and classes, you simply have two options you can select \(you can use one or both\):
 
 1. I would like this activity to be listed on my activity finder, embedded on my website.
 2. I would like this activity to be published and promoted on all public activity finders. 
 
-### **Can an instructor easily add live streaming to** Playwaze**?**
+## **Can an instructor easily add live streaming to** Playwaze**?**
 
 Playwaze doesn’t host your live streams or on demand content directly; there’s no need to when there’s lots of great systems out there for that already. When you add your activities and content, all you do is provide us with a link to where you are delivering your activity or hosting your video, and we will send the person who wants to access it straight there \(unless they need to book on or pay\)!
 

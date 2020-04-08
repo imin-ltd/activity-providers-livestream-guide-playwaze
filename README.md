@@ -19,7 +19,7 @@ The aim of this guide is to help activity providers of all shapes and sizes take
 It doesn't take long to get your classes online, however, there are a few things to think through, which will be covered in the various sections of this guide.
 
 {% hint style="success" %}
-#### There are two main types of online workout: o_**n-demand**_ **\(watch whenever\)** and l_**ive stream**_ ****\(instructor is live\)**.** _This guide will focus on live streamed exercise classes._
+### There are two main types of online workout: o_**n-demand**_ **\(watch whenever\)** and l_**ive stream**_ **\*\*\(instructor is live\)**.\*\* _This guide will focus on live streamed exercise classes._
 {% endhint %}
 
 If you just want to get going quickly, check out our lightning ⚡️quick steps:

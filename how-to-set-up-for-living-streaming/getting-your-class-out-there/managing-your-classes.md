@@ -1,6 +1,6 @@
 # ⚙️ Using a system to manage your classes
 
-### 👩‍🏫 Is a class management or booking system right for you?
+## 👩‍🏫 Is a class management or booking system right for you?
 
 {% hint style="success" %}
 Having a class management/booking system is a great idea if:

@@ -8,12 +8,12 @@ Whichever live streaming solution you use, and whether or not you use a class ma
 
 This is perhaps more important than ever, because an increasing number of people are searching online for classes that are suitable for them, so you need to give your classes as much visibility as possible.
 
-### 🥁 Introducing OpenActive
+## 🥁 Introducing OpenActive
 
 [OpenActive](https://www.openactive.io/) is here to support you to reach a wider audience. OpenActive is a Government-funded initiative designed to make it far easier for you to work with multiple partners to promote your classes to as many people as possible.
 
 {% hint style="info" %}
-Put simply:  
+Put simply:
 
 1. You have classes that you want in front of as many people as possible. 
 2. There are various for-profit and not-for-profit platforms out there that want to promote your classes to their collective user base. 
@@ -22,7 +22,7 @@ Put simply:
 
 Examples of the platforms that want to promote your classes are: [_**classfinder**_](https://www.classfinder.org.uk/), [_**Decathlon**_](https://play.decathlon.co.uk/activities)**,** _**Sport England**_**,** _**Ordnance Survey,**_ [_**Public Health England**_](https://www.nhs.uk/change4life/activities/indoor-activities) **and many more**. Cumulatively, they have **a reach of millions of users every month**, and they want to put your classes in front of those users. In most cases, **your classes are promoted for free and without any extra effort from you once you're setup**.
 
-### 🤩 Sounds great! How do I make it happen?
+## 🤩 Sounds great! How do I make it happen?
 
 The straightforward answer is that you need to do two things:
 
@@ -31,7 +31,7 @@ The straightforward answer is that you need to do two things:
 
 Find out more about [using a system to manage your classes](managing-your-classes.md) in the next section of this guide.
 
-### 🤔 I already work with MoveGB, ClassPass or something similar. How is this different?
+## 🤔 I already work with MoveGB, ClassPass or something similar. How is this different?
 
 Great question! 🤓 OpenActive is an enabler of these types of platforms. Instead of having to upload your class timetable information and keep it up to date in every fitness marketplace platform, you should be able to share that information directly from your existing booking system - **minimal effort, maximum reward**.
 
