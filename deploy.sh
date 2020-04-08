@@ -61,3 +61,4 @@ function deployCopy {
 getLatest
 deployCopy "bookwhen"
 deployCopy "playwaze"
+deployCopy "open-sessions"
