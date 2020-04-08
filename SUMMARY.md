@@ -19,12 +19,7 @@
 * [📣 Getting your live streamed classes out there](how-to-set-up-for-living-streaming/getting-your-class-out-there/README.md)
   * [👀 Increasing the visibility of your classes](how-to-set-up-for-living-streaming/getting-your-class-out-there/increasing-the-visibility-of-your-live-streamed-classes.md)
   * [⚙️ Using a system to manage your classes](how-to-set-up-for-living-streaming/getting-your-class-out-there/managing-your-classes.md)
-  * [🎨 Your system and OpenActive](how-to-set-up-for-living-streaming/getting-your-class-out-there/using-a-system.md)
-  * [🛍 Systems on offer](how-to-set-up-for-living-streaming/getting-your-class-out-there/systems-on-offer/README.md)
-    * [💫 Using Bookwhen](how-to-set-up-for-living-streaming/getting-your-class-out-there/systems-on-offer/bookwhen.md)
-    * [💫 Using Open Sessions](how-to-set-up-for-living-streaming/getting-your-class-out-there/systems-on-offer/open-sessions.md)
-    * [💫 Using Participant](how-to-set-up-for-living-streaming/getting-your-class-out-there/systems-on-offer/participant.md)
-    * [💫 Using Playwaze](how-to-set-up-for-living-streaming/getting-your-class-out-there/systems-on-offer/playwaze.md)
+  * [💫 Using Playwaze](how-to-set-up-for-living-streaming/getting-your-class-out-there/systems-on-offer/playwaze.md)
 * [📝 Instructions to give to participants](how-to-set-up-for-living-streaming/instructions-to-give-to-participants.md)
 
 ## Before you start live streaming <a id="before-your-start-live-streaming"></a>
