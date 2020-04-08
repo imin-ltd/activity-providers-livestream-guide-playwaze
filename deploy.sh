@@ -34,8 +34,7 @@ function deployCopy {
 
   # Copy GitBooks pages and assets
   cp -r original/activity-providers-livestream-guide/* out/activity-providers-livestream-guide-$1
-  mkdir out/activity-providers-livestream-guide-$1/.gitbook
-  mkdir out/activity-providers-livestream-guide-$1/.gitbook/assets
+  mkdir -p out/activity-providers-livestream-guide-$1/.gitbook/assets
   cp -r original/activity-providers-livestream-guide/.gitbook/assets/* out/activity-providers-livestream-guide-$1/.gitbook/assets
 
   cd out/activity-providers-livestream-guide-$1

@@ -17,7 +17,7 @@ You will need to have adequate insurance cover to deliver live streamed classes.
 {% endhint %}
 
 {% hint style="info" %}
-It’s best you check with your insurer if you are covered. If not, check out the insurance packages from [EMD UK](https://emduk.org/) as they will cover you to deliver virtual classes.
+It is recommended that you check with your insurer if you are covered or not. If you are not, you can check out the insurance packages from [EMD UK](https://emduk.org/), which will cover you when delivering virtual classes.
 {% endhint %}
 
 You will also need to take all the same health and safety aspects into consideration, just as you would when running a regular class, including:
