@@ -13,7 +13,7 @@ Are you playing music during the class? You need to ensure you have the relevant
 {% endhint %}
 
 {% hint style="info" %}
-EMD UK has provided [this advice and fact sheet](https://emduk.org/wp-content/uploads/2020/04/Coronavirus-FAQs-for-instructors-03042020.pdf) for instructors which answers a lot of specific questions to do with insurance, music and other regulatory aspects during delivery of live streamed classes\).
+EMD UK has provided [this advice and fact sheet](https://emduk.org/wp-content/uploads/2020/04/Coronavirus-FAQs-for-instructors-03042020.pdf) for instructors which answers specific questions to do with music during the delivery of live streamed virtual classes.
 {% endhint %}
 
 ### 🎙 Un-muted participants

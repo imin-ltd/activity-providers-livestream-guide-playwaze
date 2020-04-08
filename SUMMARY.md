@@ -29,7 +29,7 @@
 
 ## Before you start live streaming <a id="before-your-start-live-streaming"></a>
 
-* [👷‍♀️ Safety and insurance](before-your-start-live-streaming/safety-and-insurance.md)
+* [👷‍♀️ Safety, safeguarding and insurance](before-your-start-live-streaming/safety-and-insurance.md)
 * [🎶 Music](before-your-start-live-streaming/other-things-to-consider.md)
 * [✏️ Plan your workout](before-your-start-live-streaming/plan-your-workout.md)
 * [🤗 The big welcome](before-your-start-live-streaming/untitled.md)
