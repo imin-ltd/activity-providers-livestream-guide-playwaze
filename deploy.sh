@@ -29,6 +29,7 @@ function deployCopy {
   git config user.email "travis@openactive.org"
 
   rm -rf
+  rm -rf .gitbook/assets
 
   cd ..
 
