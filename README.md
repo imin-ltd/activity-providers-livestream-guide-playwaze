@@ -24,7 +24,7 @@ There are two main types of online workout: **on-demand** \(watch whenever\) and
 
 If you just want to get going quickly, check out our lightning ⚡️quick steps:
 
-{% page-ref page="introduction/get-live-streaming-in-3-steps.md" %}
+{% page-ref page="introduction/get-live-streaming-in-4-steps.md" %}
 
 ## 👨‍💻 Who are we?
 
