@@ -24,10 +24,10 @@
 
 ## Before you start live streaming <a id="before-your-start-live-streaming"></a>
 
-* [👷‍♀️ Safety, safeguarding and insurance](before-your-start-live-streaming/safety-and-insurance.md)
-* [🎶 Music](before-your-start-live-streaming/other-things-to-consider.md)
+* [👷‍♀️ Safety, safeguarding and insurance](before-your-start-live-streaming/safety-safeguarding-and-insurance.md)
+* [🎶 Music](before-your-start-live-streaming/music.md)
 * [✏️ Plan your workout](before-your-start-live-streaming/plan-your-workout.md)
-* [🤗 The big welcome](before-your-start-live-streaming/untitled.md)
+* [🤗 The big welcome](before-your-start-live-streaming/the-big-welcome.md)
 * [👟 Put yourself in their exercise shoes](before-your-start-live-streaming/put-yourself-in-their-exercise-shoes.md)
 
 ## During your live streamed class <a id="during-your-live-streaming-class"></a>
@@ -37,10 +37,10 @@
 
 ## After you have finished live streaming
 
-* [🚀 Onwards and upwards to the next class](after-you-have-finished-live-streaming/untitled.md)
+* [🚀 Onwards and upwards to the next class](after-you-have-finished-live-streaming/onwards-and-upwards.md)
 
 ## Tips & Advice <a id="tips-and-faqs"></a>
 
-* [🏎 15 ways to turbocharge your classes](tips-and-faqs/untitled.md)
+* [🏎 15 ways to turbocharge your classes](tips-and-faqs/turbocharge-your-classes.md)
 * [🚨 Zoom - do's and don'ts](tips-and-faqs/zoom-dos-and-donts.md)
 

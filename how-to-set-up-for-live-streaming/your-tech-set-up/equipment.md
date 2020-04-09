@@ -42,9 +42,9 @@ If you want to take online bookings or payments for your live stream classes and
 
 You will also need insurance to cover you for the classes you will be delivering:
 
-{% page-ref page="../../before-your-start-live-streaming/safety-and-insurance.md" %}
+{% page-ref page="../../before-your-start-live-streaming/safety-safeguarding-and-insurance.md" %}
 
 You will need to check that you have the requisite licences when playing music during your live streamed classes:
 
-{% page-ref page="../../before-your-start-live-streaming/other-things-to-consider.md" %}
+{% page-ref page="../../before-your-start-live-streaming/music.md" %}
 

@@ -4,11 +4,11 @@
 
 📣 Choose an "OpenActive enabled" class management or booking system to [increasing the visibility of your classes](../how-to-set-up-for-live-streaming/getting-your-class-out-there/increasing-the-visibility-of-your-live-streamed-classes.md).
 
-🎶 Ensure you have the requisite [insurance and music licences](../before-your-start-live-streaming/safety-and-insurance.md#insurance-cover).
+🎶 Ensure you have the requisite [insurance and music licences](../before-your-start-live-streaming/safety-safeguarding-and-insurance.md#insurance-cover).
 
-👷‍♂️ Make sure you and your participants are exercising in a[ safe space](../before-your-start-live-streaming/safety-and-insurance.md#space-risk-assessment) free of hazards and obstacles.
+👷‍♂️ Make sure you and your participants are exercising in a[ safe space](../before-your-start-live-streaming/safety-safeguarding-and-insurance.md#space-risk-assessment) free of hazards and obstacles.
 
-👩‍🏫 Write a thorough class description, including what participants can expect, the kit they will need, the class length and intensity, etc. And don't forget to include the [participant disclaimer](../before-your-start-live-streaming/safety-and-insurance.md#participant-disclaimer)!
+👩‍🏫 Write a thorough class description, including what participants can expect, the kit they will need, the class length and intensity, etc. And don't forget to include the [participant disclaimer](../before-your-start-live-streaming/safety-safeguarding-and-insurance.md#participant-disclaimer)!
 
 🪑 Tell your participants to thoroughly check any equipment or household objects to make sure they are safe to use.
 
