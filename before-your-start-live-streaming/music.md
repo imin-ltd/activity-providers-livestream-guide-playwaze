@@ -13,7 +13,7 @@ Are you playing music during the class? You need to ensure you have the relevant
 {% endhint %}
 
 {% hint style="info" %}
-EMD UK has compiled some very helpful information on permissible music purchases without the need for sync licenses.
+EMD UK has compiled some very helpful information on [permissible music purchases without the need for sync licenses](https://emduk.org/wp-content/uploads/2020/04/EMD-UK-LICENCE-FREE-MUSIC-PROVIDERS.pdf).
 
 EMD UK has also created a [Coronavirus FAQs for instructors](https://emduk.org/wp-content/uploads/2020/04/Coronavirus-FAQs-for-instructors-03042020.pdf), which includes information about using music during your live streamed virtual classes.
 {% endhint %}
