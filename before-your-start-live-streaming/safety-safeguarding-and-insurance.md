@@ -28,15 +28,26 @@ Provide common sense guidelines to participants about the space \(size and type,
 
 Whilst bodyweight exercises are perfect in the absence of equipment, we understand that sometimes it is necessary, e.g. a chair for chair based exercises. If you will be asking participants to use equipment \(see [👟 Put yourself in their exercise shoes](put-yourself-in-their-exercise-shoes.md#equipment)\), be very clear that they must ensure it is in good condition and safe to use.
 
+### 👧 Safeguarding procedures for virtual classes
+
+At this time, you may need to apply some of your existing guidance and procedures to the classes hosted in your new space. However, the principles of online safeguarding will still apply. For more information, we recommend you thoroughly examine [this guidance](https://thecpsu.org.uk/resource-library/best-practice/remote-teaching-and-coaching/) provided by the NSPCC's [Child Protection in Sport Unit](https://thecpsu.org.uk/).
+
+The NSPCC and O2 have published a [Net Aware guide](https://www.net-aware.org.uk/networks/zoom/) to using Zoom safely, which includes pointers like:
+
+* Supervising young people and children at all times when they are using Zoom;
+* Reminding children not to let anybody into a chat that they don’t know;
+* Familiarising yourself with and utilising Zoom's security features \(by clicking the Security Icon - read Zoom's guidance [here](https://blog.zoom.us/wordpress/2020/04/08/zoom-product-updates-new-security-toolbar-icon-for-hosts-meeting-id-hidden/) for more information\) to restrict participants’ ability to share their screens, chat in a meeting, rename themselves or add annotations to what the host is sharing, and to remove participants entirely; and
+* Reminding children not to share Zoom links with anybody other than their friends. They shouldn’t share them on social media, in game chats or on group chats.
+
+{% hint style="info" %}
+From 9th May, all meetings on Zoom are now automatically password protected and have ‘waiting rooms’ enabled.
+{% endhint %}
+
 ### 📋 Participant disclaimer 
 
 Due to the nature of virtual class delivery, participants need to understand that they are taking part at their own risk and are responsible for their own safety and welfare. The instructor still has a duty of care, which can be met by observing these guidelines.
 
 It is always good to have a disclaimer like this in writing, so you can add it to your class description and/or confirmation emails, as well as saying it at the beginning of the class.
-
-### 👧 Safeguarding procedures for virtual classes
-
-At this time, you may need to apply some of your existing guidance and procedures to the classes hosted in your new space. However, the principles of online safeguarding will still apply. For more information, we recommend you thoroughly examine [this guidance](https://thecpsu.org.uk/resource-library/best-practice/remote-teaching-and-coaching/) provided by the NSPCC's [Child Protection in Sport Unit](https://thecpsu.org.uk/).
 
 ### 🩺 Participant health screening 
 
