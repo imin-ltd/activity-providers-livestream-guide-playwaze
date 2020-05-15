@@ -12,10 +12,11 @@ description: Looking for a new system? Look no further (than the table below!)..
 | \*\*\*\*[**Gladstone**](https://www.gladstonesoftware.co.uk/)\*\*\*\* | Unknown | **No** | Yes | No |
 | \*\*\*\*[**Legend**](https://www.legendware.co.uk/)\*\*\*\* | Unknown | **No** | Yes | No |
 | \*\*\*\*[**Makesweat**](https://makesweat.com/)\*\*\*\* | Unknown | **No** | Yes | Yes |
-| \*\*\*\*[**Open Sessions**](https://opensessions.io/#/home) | Implementing | **Implementing** | No | Yes |
-| \*\*\*\*[**Participant**](https://www.participant.co.uk/home)\*\*\*\* | Implementing | **Implementing** | Yes | Yes |
-| \*\*\*\*[**Playwaze**](https://playwaze.com/)\*\*\*\* | Yes | **Implementing** | Yes | Yes |
+| \*\*\*\*[**Open Sessions**](https://opensessions.io/#/home) | Yes | **Yes** | No | Yes |
+| \*\*\*\*[**Participant**](https://www.participant.co.uk/home)\*\*\*\* | Yes | **Yes** | Yes | Yes |
+| \*\*\*\*[**Playwaze**](https://playwaze.com/)\*\*\*\* | Yes | **Yes** | Yes | Yes |
 | \*\*\*\*[**SportSuite**](https://www.sportsuite.co.uk/)\*\*\*\* | Yes | **Implementing** | No | Yes |
+| \*\*\*\*[**TeamUp**](https://goteamup.com/en-us/)\*\*\*\* | Yes | **Implementing** | Yes | Yes |
 
 {% hint style="warning" %}
 \* You can ask your chosen booking system to do the necessary work to become OpenActive enabled. It should not take them long. Alternatively, you can email hello@openactive.io with information about your system so the team at OpenActive can help to make this a reality.
