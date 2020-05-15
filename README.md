@@ -40,5 +40,5 @@ It's not going to be perfect, so please tell us how we can improve it and we'll 
 
 This entire guide is published under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). If your organisation would find this guide useful, please use it in whatever way you want. All you need is to make sure you attribute the source material - ask us if you're not sure how to do so.
 
-If you want to talk to us about using this guide in any other way, we'd be happy to discuss and we're very open to re-use! Please get in touch at hello@imin.co.
+If you want to talk to us about using this guide in any other way, we'd be happy to discuss and we're very open to re-use! Please get in touch at [hello@imin.co](mailto:hello@imin.co).
 
