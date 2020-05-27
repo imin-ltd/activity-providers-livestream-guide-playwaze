@@ -6,17 +6,19 @@ description: Looking for a new system? Look no further (than the table below!)..
 
 ## 🤝 Class management/booking systems and what they offer
 
-| **System name** | **Suitable for live streamed classes?** | **Is OpenActive enabled for virtual classes?\*** | **Accepts online booking/payment?** | **Free tier available**_**?**_ |
+| **System name** | **Suitable for live streamed classes?** | **OpenActive enabled for virtual classes?\*** | **Accepts online booking/payment?** | **Free tier available**_**?**_ |
 | :--- | :---: | :---: | :---: | :---: |
 | \*\*\*\*[**Bookwhen**](https://bookwhen.com/)\*\*\*\* | Yes | **Implementing** | Yes | Yes |
+| \*\*\*\*[**ClubSpark**](https://clubspark.com/)\*\*\*\* | No | **No** | Yes | No |
 | \*\*\*\*[**Gladstone**](https://www.gladstonesoftware.co.uk/)\*\*\*\* | Unknown | **No** | Yes | No |
 | \*\*\*\*[**Legend**](https://www.legendware.co.uk/)\*\*\*\* | Unknown | **No** | Yes | No |
 | \*\*\*\*[**Makesweat**](https://makesweat.com/)\*\*\*\* | Unknown | **No** | Yes | Yes |
-| \*\*\*\*[**Open Sessions**](https://opensessions.io/#/home) | Yes | **Yes** | No | Yes |
+| \*\*\*\*[**Open Sessions**](https://opensessions.io/#/home)\*\*\*\* | Yes | **Yes** | No | Yes |
 | \*\*\*\*[**Participant**](https://www.participant.co.uk/home)\*\*\*\* | Yes | **Yes** | Yes | Yes |
 | \*\*\*\*[**Playwaze**](https://playwaze.com/)\*\*\*\* | Yes | **Yes** | Yes | Yes |
 | \*\*\*\*[**SportSuite**](https://www.sportsuite.co.uk/)\*\*\*\* | Yes | **Implementing** | No | Yes |
 | \*\*\*\*[**TeamUp**](https://goteamup.com/en-us/)\*\*\*\* | Yes | **Implementing** | Yes | Yes |
+| \*\*\*\*[**Upshot**](https://www.upshot.org.uk/)\*\*\*\* | No | **No** | No | No |
 
 {% hint style="warning" %}
 \* You can ask your chosen booking system to do the necessary work to become OpenActive enabled. It should not take them long. Alternatively, you can email hello@openactive.io with information about your system so the team at OpenActive can help to make this a reality.
