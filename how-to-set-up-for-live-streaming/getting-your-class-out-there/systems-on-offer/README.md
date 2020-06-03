@@ -17,7 +17,7 @@ description: Looking for a new system? Look no further (than the table below!)..
 | \*\*\*\*[**Participant**](https://www.participant.co.uk/home)\*\*\*\* | Yes | **Yes** | Yes | Yes |
 | \*\*\*\*[**Playwaze**](https://playwaze.com/)\*\*\*\* | Yes | **Yes** | Yes | Yes |
 | \*\*\*\*[**SportSuite**](https://www.sportsuite.co.uk/)\*\*\*\* | Yes | **Implementing** | No | Yes |
-| \*\*\*\*[**TeamUp**](https://goteamup.com/en-us/)\*\*\*\* | Yes | **Implementing** | Yes | Yes |
+| \*\*\*\*[**TeamUp**](https://goteamup.com/en-us/)\*\*\*\* | Yes | **Yes** | Yes | Yes |
 | \*\*\*\*[**Upshot**](https://www.upshot.org.uk/)\*\*\*\* | No | **No** | No | No |
 
 {% hint style="warning" %}
