@@ -7,7 +7,7 @@ description: >-
 # 👷‍♀️ Safety, safeguarding and insurance
 
 {% hint style="info" %}
-EMD UK, the national governing body for group exercise, has provided [this advice and fact sheet](https://emduk.org/wp-content/uploads/2020/04/Coronavirus-FAQs-for-instructors-03042020.pdf) for instructors which answers a lot of specific questions to do with insurance, health and safety, and other regulatory aspects during the delivery of live streamed virtual classes.
+EMD UK, the national governing body for group exercise, has provided [this advice and fact sheet](https://emduk.org/group-ex-support-pack/) for instructors which answers a lot of specific questions to do with insurance, health and safety, and other regulatory aspects during the delivery of live streamed virtual classes.
 {% endhint %}
 
 ### ✍️ Insurance cover
