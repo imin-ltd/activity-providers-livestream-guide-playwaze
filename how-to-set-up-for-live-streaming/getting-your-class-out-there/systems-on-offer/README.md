@@ -8,7 +8,7 @@ description: Looking for a new system? Look no further (than the table below!)..
 
 | **System name** | **Suitable for live streamed classes?** | **OpenActive enabled for virtual classes?\*** | **Accepts online booking/payment?** | **Free tier available**_**?**_ |
 | :--- | :---: | :---: | :---: | :---: |
-| \*\*\*\*[**Bookwhen**](https://bookwhen.com/)\*\*\*\* | Yes | **Implementing** | Yes | Yes |
+| \*\*\*\*[**Bookwhen**](https://bookwhen.com/)\*\*\*\* | Yes | **Yes** | Yes | Yes |
 | \*\*\*\*[**ClubSpark**](https://clubspark.com/)\*\*\*\* | No | **No** | Yes | No |
 | \*\*\*\*[**Gladstone**](https://www.gladstonesoftware.co.uk/)\*\*\*\* | Unknown | **No** | Yes | No |
 | \*\*\*\*[**Legend**](https://www.legendware.co.uk/)\*\*\*\* | Unknown | **No** | Yes | No |
