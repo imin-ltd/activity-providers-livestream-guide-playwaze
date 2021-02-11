@@ -36,6 +36,14 @@ But mainly, we really want to do all we can to help everyone in this time of nee
 
 It's not going to be perfect, so please tell us how we can improve it and we'll be happy to do so. If you've got any specific questions, please email us at hello@imin.co - we're always happy to help.
 
+{% hint style="danger" %}
+Neither imin nor any of the third parties referred to in this guide accept no responsibility for any damage, loss, liabilities, death or injury incurred or suffered by instructors or participants if using this guide in the delivery of online activities.
+
+It is the responsibility of instructors to ensure they have the relevant qualifications, insurance, disclaimers, music licensing and  safeguarding procedures in place.
+
+Always use your common sense when it comes to delivering online activities.
+{% endhint %}
+
 ## 🤝 Please use and re-use this guide!
 
 This entire guide is published under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). If your organisation would find this guide useful, please use it in whatever way you want. All you need is to make sure you attribute the source material - ask us if you're not sure how to do so.
