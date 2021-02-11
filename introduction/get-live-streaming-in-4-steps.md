@@ -19,3 +19,13 @@ However, you might not care too much about the detail and just want to just get 
 3. Check you have adequate insurance cover to teach online, as well as the correct music licencing if you use music. It is advised you contact your insurance provider to check if you are covered to deliver online classes. EMD UK has a very helpful [set of FAQs](https://emduk.org/wp-content/uploads/2020/04/Coronavirus-FAQs-for-instructors-03042020.pdf) to help with this. 
 4. **Run an awesome session** like only you know how! **💪**
 
+{% hint style="danger" %}
+The [CIMSPA website](https://www.cimspa.co.uk/library-and-guidance/delivering-sport-and-physical-activity-online-policy) states the following:
+
+> Working with leading sector partners CIMSPA have developed this policy to define and enable good practice – supporting independent practitioners across the UK to keep delivering and keep the nation active.
+
+**We highly recommend you make use of this policy before delivering any activities online.** The policy includes information on qualifications, insurance, disclaimers, recording sessions, participant and practitioner safety, safeguarding, legislation, music licensing and policy compliance.
+{% endhint %}
+
+
+

@@ -6,6 +6,14 @@ description: >-
 
 # 🎶 Music
 
+{% hint style="danger" %}
+The [CIMSPA website](https://www.cimspa.co.uk/library-and-guidance/delivering-sport-and-physical-activity-online-policy) states the following:
+
+> Working with leading sector partners CIMSPA have developed this policy to define and enable good practice – supporting independent practitioners across the UK to keep delivering and keep the nation active.
+
+**We highly recommend you make use of this policy before delivering any activities online.** The policy includes information on qualifications, insurance, disclaimers, recording sessions, participant and practitioner safety, safeguarding, legislation, music licensing and policy compliance.
+{% endhint %}
+
 ### ⚠️ Relevant licence
 
 {% hint style="danger" %}
